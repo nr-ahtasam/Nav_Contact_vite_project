@@ -159,3 +159,4 @@ export const ContactHeadding = styled(Box)({
 export const ContactRightSideWrapper = styled(Box)({
   width: "50%",
 });
+export const FromDataWrapper = styled(Box)({});
